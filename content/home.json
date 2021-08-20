@@ -31,11 +31,6 @@
       "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "lowest_price"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
