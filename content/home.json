@@ -34,7 +34,8 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 2
+      "page": 2,
+      "headless": true
     }
   ]
 }
