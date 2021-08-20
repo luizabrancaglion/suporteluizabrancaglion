@@ -31,7 +31,7 @@
       "collection_id": null,
       "limit": 12,
       "page": 2,
-      "headless": false
+      "headless": true
     },
     {
       "type": "page-title",
@@ -40,8 +40,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "sales"
+      "load_more": true,
+      "sort": "lowest_price"
     }
   ]
 }
