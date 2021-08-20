@@ -40,8 +40,8 @@
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
+      "load_more": false,
+      "sort": "sales"
     }
   ]
 }
