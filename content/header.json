@@ -12,14 +12,18 @@
       {
         "title": "Esta loja é um PWA",
         "link": "/posts/esta-loja-e-um-pwa"
-      }
+      },
+      {},
+      {}
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/cropeed-preto?cropeed"
+    ],
+    "random": 9,
     "full_width": false
   },
   "search_input": true
