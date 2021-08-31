@@ -21,9 +21,12 @@
   },
   "categories_list": {
     "featured": [
+      "/cropeed-preto?cropeed",
+      "/calcas?Calças",
+      "/saia?Saia",
       "/cropeed-preto?cropeed"
     ],
-    "random": 9,
+    "random": 10,
     "full_width": false
   },
   "search_input": true
