@@ -47,6 +47,17 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 48,
+      "start": "2021-09-02T13:54:48.893Z",
+      "end": "2021-09-03T13:48:55.410Z",
+      "offers": [
+        "611d4d7bcfbcd97059820625",
+        "611e8959cfbcd97059830fcb"
+      ],
+      "notes": "Compre blusas na promoção"
     }
   ]
 }
