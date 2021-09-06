@@ -53,6 +53,10 @@
         "611e8959cfbcd97059830fcb"
       ],
       "notes": "Veja as promoções do dia, você não pode perder!"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/confira-os-nossos-produtos-1-.png"
     }
   ]
 }
