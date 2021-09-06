@@ -29,7 +29,7 @@
       "/vestido?VESTIDO",
       "/conjunto?CONJUNTO"
     ],
-    "random": 10,
+    "random": 0,
     "full_width": true
   },
   "search_input": true
