@@ -1,14 +1,14 @@
 {
   "domain": "suporteluizabrancaglion.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#bd8dc9",
+  "primary_color": "#ff7070",
   "theme": {
-    "bootswatch": "flatly",
-    "custom": "_"
+    "bootswatch": "darkly",
+    "custom": "niche-flowers"
   },
-  "bg_color": "#a79090",
+  "bg_color": "#5e5e5e",
   "repository": "ecomplus-stores/suporteluizabrancaglion",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/butique-c-moda-femina.png",
   "name": "demostore",
   "short_name": "demostore",
   "lang": "pt_br",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#f0d9f2",
+  "secondary_color": "#6d5de5",
   "icon": "/img/icon.png",
   "store_id": 5329,
   "description": "loja de roupas",
