@@ -26,7 +26,7 @@
       "/cropeed-preto?cropeed"
     ],
     "random": 10,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
