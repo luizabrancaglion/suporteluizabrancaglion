@@ -7,16 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/confira-os-nossos-produtos-1-.png",
           "alt": "Banner sample two",
-          "start": "",
+          "start": "2021-09-06T20:31:12.586Z",
           "end": ""
         }
       ]
@@ -56,7 +49,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/confira-os-nossos-produtos-1-.png"
+      "img": "/img/uploads/rect8589.png"
     }
   ]
 }
