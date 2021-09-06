@@ -20,10 +20,14 @@
   },
   "categories_list": {
     "featured": [
-      "/cropeed-preto?cropeed",
-      "/calcas?Calças",
-      "/saia?Saia",
-      "/cropeed-preto?cropeed"
+      "/blusas?BLUSA",
+      "/cropeed?CROPPED",
+      "/body?BODY",
+      "/calcas?CALÇA",
+      "/short?SHORT",
+      "/saia?SAIA",
+      "/vestido?VESTIDO",
+      "/conjunto?CONJUNTO"
     ],
     "random": 10,
     "full_width": true
