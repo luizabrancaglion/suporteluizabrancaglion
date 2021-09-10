@@ -1,5 +1,5 @@
 {
-  "css": ".product__short-stock {\ndisplay: none !important;\n}",
+  "css": "",
   "html_head": "",
   "html_body": "<script>window.ecomShippingApps = [1248, 1253]</script>"
 }
