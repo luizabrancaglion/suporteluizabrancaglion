@@ -13,6 +13,20 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 11,
+      "page": 1,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Produtos",
+      "headless": false
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
