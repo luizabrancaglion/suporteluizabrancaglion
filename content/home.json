@@ -31,7 +31,7 @@
       "headless": true,
       "sort": "views",
       "collection_id": "612eacc71250e82405c5b6e7:categories:SAIA:/saia",
-      "title": "Saia"
+      "title": "SAIA"
     },
     {
       "type": "dynamic-showcase",
@@ -45,16 +45,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "612eacbf1250e82405c5b6e0:categories:CALÇA:/calcas",
-      "sort": "views",
-      "title": "Calça",
-      "headless": false
     }
   ]
 }
