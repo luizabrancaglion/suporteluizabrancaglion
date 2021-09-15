@@ -39,17 +39,6 @@
       "sort": "views"
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-09-02T13:54:48.893Z",
-      "end": "2021-09-09T13:48:55.410Z",
-      "offers": [
-        "611d4d7bcfbcd97059820625",
-        "611e8959cfbcd97059830fcb"
-      ],
-      "notes": "Veja as promoções do dia, você não pode perder!"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/rect8589.png"
     },
