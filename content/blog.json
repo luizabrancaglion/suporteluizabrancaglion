@@ -13,6 +13,21 @@
     {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6142117a522ab535e60f42c1:collections:Mais vendidos:/mais-vendidos",
+      "sort": "views",
+      "title": "Produtos"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
