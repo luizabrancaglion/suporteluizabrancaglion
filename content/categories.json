@@ -5,11 +5,12 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Blusa"
     },
     {
       "type": "document-banner",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "category-retail",
@@ -36,6 +37,11 @@
       "offset": 0,
       "sort": null,
       "autoplay": 0
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "sales"
     },
     {
       "type": "category-retail",
