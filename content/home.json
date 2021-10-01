@@ -23,17 +23,17 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "612eacc71250e82405c5b6e7:categories:SAIA:/saia",
-      "sort": "views",
-      "title": "SAIA"
+      "collection_id": "6142117a522ab535e60f42c1:collections:Mais vendidos:/mais-vendidos",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "6142117a522ab535e60f42c1:collections:Mais vendidos:/mais-vendidos",
-      "sort": "views"
+      "collection_id": "612eacc71250e82405c5b6e7:categories:SAIA:/saia",
+      "sort": "views",
+      "title": "SAIA"
     },
     {
       "type": "responsive-banner",
