@@ -3,14 +3,16 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "img": "/img/uploads/confira-os-nossos-produtos-1-.png",
-          "alt": "Banner sample two",
-          "start": "2021-09-06T20:31:12.586Z",
-          "end": ""
+          "img": "/img/uploads/banner2.png"
+        },
+        {
+          "img": "/img/uploads/confira-os-nossos-produtos-1-.png"
+        },
+        {
+          "img": "/img/uploads/banner1.png"
         }
       ]
     },
