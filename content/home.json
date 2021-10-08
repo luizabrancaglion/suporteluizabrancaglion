@@ -21,14 +21,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/blusas.png"
+          "img": "/img/uploads/blusas-1-.png"
         },
         {
-          "img": "/img/uploads/black-friday.png",
+          "img": "/img/uploads/blusas-2-.png",
           "mobile_img": "/img/uploads/rect8589.png"
         },
         {
-          "img": "/img/uploads/rect8589.png"
+          "img": "/img/uploads/blusas-3-.png"
         }
       ]
     },
