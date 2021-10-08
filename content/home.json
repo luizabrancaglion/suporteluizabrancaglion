@@ -3,6 +3,17 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-10-08T17:25:39.080Z",
+          "end": "2021-10-08T17:25:39.164Z",
+          "img": "/img/uploads/black-friday.png"
+        }
+      ]
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
