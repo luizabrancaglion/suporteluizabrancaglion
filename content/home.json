@@ -6,10 +6,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner2.png"
+          "img": "/img/uploads/rect8589.png"
         },
         {
-          "img": "/img/uploads/confira-os-nossos-produtos-1-.png"
+          "img": "/img/uploads/rect859.png",
+          "mobile_img": "/img/uploads/rect8589.png"
         },
         {
           "img": "/img/uploads/banner1.png"
