@@ -63,6 +63,10 @@
       "limit": 24,
       "offset": 0,
       "sort": null
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
