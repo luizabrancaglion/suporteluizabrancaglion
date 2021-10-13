@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "Em Configurações > Inserir Código > Editar CSS,\n.product-card__prices {\n  color: var(--primary)\n}",
   "html_head": "",
   "html_body": "<script>window.ecomShippingApps = [1248, 1253]</script>"
 }
