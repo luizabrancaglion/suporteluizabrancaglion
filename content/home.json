@@ -54,6 +54,12 @@
       "img": "/img/uploads/rect8589.png"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
