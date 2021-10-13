@@ -1,5 +1,5 @@
 {
-  "css": ".product-card__prices {\n  color: var(--primary)\n}\n\n.product__prices {\ncolor: var(--primary)\n}",
+  "css": ".product-card__prices {\n  color: var(--primary)\n}\n.product__prices {\ncolor: var(--primary)\n}",
   "html_head": "",
   "html_body": "<script>window.ecomShippingApps = [1248, 1253]</script>"
 }
