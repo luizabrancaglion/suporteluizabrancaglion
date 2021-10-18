@@ -1,5 +1,5 @@
 {
-  "css": "#product-actions.mb-3 +button.share, {\n  display: none;\n}",
+  "css": "#product-actions button.share, {\n  display: none;\n}",
   "html_head": "",
-  "html_body": "<script>window.ecomShippingApps = [1248, 1253]</script>"
+  "html_body": ""
 }
