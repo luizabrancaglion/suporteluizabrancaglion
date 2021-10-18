@@ -1,5 +1,5 @@
 {
-  "css": "#product-actions .mb-3, #product-actions .mb-3 {\n  display: none\n}\n",
+  "css": "#product-actions .mb-4 {\n  display: none\n}\n",
   "html_head": "",
   "html_body": "<script>window.ecomShippingApps = [1248, 1253]</script>"
 }
