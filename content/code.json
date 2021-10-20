@@ -1,5 +1,5 @@
 {
-  "css": ".category-retail .product-card__name, .category-retail .product-card__prices, .collection-shelf .product-card__name, .collection-shelf .product-card__prices, .page–search .product-card__name, .page–search .product-card__prices {text-align: center;\n}\n.info-bar {\n    background: blue;\n    color: #011E31\n}",
+  "css": ".category-retail .product-card__name, .category-retail .product-card__prices, .collection-shelf .product-card__name, .collection-shelf .product-card__prices, .page–search .product-card__name, .page–search .product-card__prices {text-align: center;\n}\n.info-bar {\n    background: var(--primary);\n    color: #011E31\n}",
   "html_head": "",
   "html_body": ""
 }
