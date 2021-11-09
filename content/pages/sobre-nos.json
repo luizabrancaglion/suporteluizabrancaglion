@@ -7,6 +7,10 @@
     {
       "type": "extra-page",
       "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/rect8589.png"
     }
   ]
 }
