@@ -1,6 +1,12 @@
 {
-  "title": "Sobre nós",
+  "title": "Conheça a história da nossa loja...",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Na década de 80, quando começamos a oferecer a roupa para a mulher que se inseria no mercado de trabalho, não imaginávamos que um dia seríamos referência na roupa casual feita para nosso clima tropical e nosso jeito colorido de ver a vida.\n\nDurante todos esses anos, aprendemos que a mulher brasileira urbana precisa de roupa que a faz sentir bem, respeita o seu corpo, sua rotina e que moda de qualidade não precisa ser complicada.\n\nConstruÍmos peças e experiências que elevam nossas mulheres e apoiam o caminho de cada uma em busca de sua melhor versão.\n\nPor isso nossa história se mistura com a sua. Estamos acompanhando e apoiando a evolução feminina, sempre atentos as novidades e cuidando de cada detalhe.",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
