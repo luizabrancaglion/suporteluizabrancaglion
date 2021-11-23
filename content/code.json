@@ -1,5 +1,5 @@
 {
-  "css": ".product-card__buy.fade .btn {\n  background-color: #000 !important;\n}\n.product__sticky-buy .btn-primary{\nbackground-color: #25BA34;\nborder-color: #25BA34;\n}\n\n.product__sticky-buy .btn-primary:hover{\nbackground-color: #1B8726;\nborder-color: #1B8726;\n}\n> .product__kit .quantity-selector__buy button{\n> background-color: #1B8726;\n> border-color: #1B8726;\n> }",
+  "css": ".product-card__buy.fade .btn {\n  background-color: #000 !important;\n}\n.product__sticky-buy .btn-primary{\nbackground-color: #25BA34;\nborder-color: #25BA34;\n}\n\n.product__sticky-buy .btn-primary:hover{\nbackground-color: #1B8726;\nborder-color: #1B8726;\n}\n> .product__kit .quantity-selector__buybutton{\n> background-color: #1B8726;\n> border-color: #1B8726;\n> }",
   "html_head": "",
   "html_body": ""
 }
