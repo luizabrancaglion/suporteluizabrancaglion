@@ -1,5 +1,5 @@
 {
-  "css": ".discount-applier cart__discount { display: none !important }",
+  "css": ".product__kit .quantity-selector__buy button\nbackground-color: #1B8726;\nborder-color: #1B8726;\n}",
   "html_head": "",
   "html_body": ""
 }
