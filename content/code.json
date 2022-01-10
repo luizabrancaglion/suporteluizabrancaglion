@@ -1,5 +1,5 @@
 {
-  "css": ".product__kit .quantity-selector__buy button {\nbackground-color: #1B8726;\nborder-color: #1B8726;\n}",
+  "css": "```\n@media (min-width: 992px) {\n  .banner-slider {\n    max-width: 100%;\n    max-height: calc(100rem*var(--banner-aspect-ratio))\n  }\n}\n```",
   "html_head": "",
   "html_body": ""
 }
