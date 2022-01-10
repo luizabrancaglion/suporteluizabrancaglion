@@ -11,7 +11,8 @@
           "end": "",
           "img": "/img/uploads/confira-os-nossos-produtos-1-.png"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
