@@ -16,7 +16,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "INFORMAÇÃO IMPORTANTE!\n\nAPENAS NESSA SEMANA NÃO ESTAREMOS ATENTENDO AS REGIÕES...."
+      "markdown": "**INFORMAÇÃO IMPORTANTE!**\n\n`APENAS NESSA SEMANA NÃO ESTAREMOS ATENTENDO AS REGIÕES....`"
     },
     {
       "type": "info-bar",
