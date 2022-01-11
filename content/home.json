@@ -15,6 +15,10 @@
       "full_width": true
     },
     {
+      "type": "custom-content",
+      "markdown": "INFORMAÇÃO IMPORTANTE!\n\nAPENAS NESSA SEMANA NÃO ESTAREMOS ATENTENDO AS REGIÕES...."
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
