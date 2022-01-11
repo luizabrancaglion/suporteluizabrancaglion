@@ -15,12 +15,12 @@
       "full_width": true
     },
     {
-      "type": "custom-content",
-      "markdown": "#### **INFORMAÇÃO IMPORTANTE!**\n\n#### *APENAS NESSA SEMANA NÃO ESTAREMOS ATENTENDO AS REGIÕES....*"
-    },
-    {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "custom-content",
+      "markdown": "#### **INFORMAÇÃO IMPORTANTE!**\n\n#### *APENAS NESSA SEMANA NÃO ESTAREMOS ATENTENDO AS REGIÕES....*"
     },
     {
       "type": "banners-grid",
