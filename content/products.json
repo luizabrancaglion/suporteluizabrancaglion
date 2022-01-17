@@ -6,7 +6,11 @@
     },
     {
       "type": "product-block",
-      "enabled": true
+      "enabled": true,
+      "size_guide": {
+        "image": "/img/uploads/tabela-feminina-medidas.jpg",
+        "title": "Tabela de medidas"
+      }
     },
     {
       "type": "related-products",
