@@ -39,11 +39,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "6142117a522ab535e60f42c1:collections:Mais vendidos:/mais-vendidos",
-      "sort": "views"
+      "collection_id": null,
+      "sort": "sales",
+      "title": "NOVIDADES"
     },
     {
       "type": "collection-shelf",
