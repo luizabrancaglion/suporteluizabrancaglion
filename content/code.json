@@ -1,5 +1,5 @@
 {
-  "css": "@media screen and (max-width: 480px) {\n.product-card__buy.fade {\n  opacity: 1 !important;\n}}\n.product-card_buy button, .minicartempty a, .productbuy button, .minicartbtn-checkout, .cartbtn-checkout, .loginemail-btn, .checkoutaccount button, .address-form button, .paymentmethod button, .productkit .quantity-selector_buy button {\nbackground-color: #007f02 !important;\n}",
+  "css": ".product-card_buy button, .minicartempty a, .productbuy button, .minicartbtn-checkout, .cartbtn-checkout, .loginemail-btn, .checkoutaccount button, .address-form button, .paymentmethod button, .product_sticky-buy .btn-primary:hover{\nbackground-color: #007f02 !important;\n}",
   "html_head": "",
   "html_body": "<a href=\"https://wa.me/5531998013997?text=Ola%20estou%20na%20sua%20loja\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
 }
