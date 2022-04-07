@@ -5,7 +5,7 @@
   "options": {
     "buyText": "comprar",
     "buy": "",
-    "strHasQuantitySelector": " ",
+    "strHasQuantitySelector": "true",
     "lowQuantityToWarn": 1,
     "maxVariationOptionsBtns": 4,
     "strHasPromotionTimer": "true"
