@@ -5,7 +5,7 @@
   "options": {
     "buyText": "adicionar",
     "buy": "",
-    "strHasQuantitySelector": "true",
+    "strHasQuantitySelector": " ",
     "lowQuantityToWarn": 1,
     "maxVariationOptionsBtns": 4,
     "strHasPromotionTimer": "_"
