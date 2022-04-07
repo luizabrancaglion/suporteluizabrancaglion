@@ -47,6 +47,12 @@
       "title": "NOVIDADES"
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-04-07T17:57:19.851Z",
+      "end": "2022-04-08T17:57:19.881Z"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -70,18 +76,6 @@
     {
       "type": "blog",
       "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-02-18T12:42:55.209Z",
-      "end": "2022-02-20T12:42:55.237Z"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-04-07T17:57:19.851Z",
-      "end": "2022-04-08T17:57:19.881Z"
     }
   ]
 }
