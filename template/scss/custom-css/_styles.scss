@@ -1,4 +1,11 @@
 // Add your custom CSS here.
-.prices__value, .cart-item__prices, .cart__summary-row, .cart__shipping {
+.prices__value, .cart-item__prices, .cart__summary-row, .cart__shipping, .discount-applier {
   display: none !important;
+}
+.cart__btn-checkout {
+ font-size: 0px;
+  &:after {
+    content: "Finalizar Orçamento";
+    font-size: 15px !important;
+  }
 }
