@@ -16,7 +16,7 @@
     font-size: 15px !important;
   }
 }
-.order-info__financial-status--pending {
+.order-info__financial-status--pending, .order-info__timeline-status--pending {
    font-size: 0px;
   &:after {
     content: "Aguardando Finalização de Orçamento";
