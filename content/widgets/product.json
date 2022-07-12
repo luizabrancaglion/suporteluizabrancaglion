@@ -6,8 +6,8 @@
     "buyText": "comprar",
     "buy": "",
     "strHasQuantitySelector": "true",
+    "strHasPromotionTimer": "true",
     "lowQuantityToWarn": 1,
-    "maxVariationOptionsBtns": 4,
-    "strHasPromotionTimer": "true"
+    "maxVariationOptionsBtns": 4
   }
 }
