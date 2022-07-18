@@ -13,16 +13,16 @@
       }
     },
     {
+      "type": "product-description",
+      "enabled": true
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
-    },
-    {
-      "type": "product-description",
-      "enabled": true
     },
     {
       "type": "product-specifications",
@@ -35,8 +35,8 @@
       "end": "2022-05-20T17:08:52.661Z"
     },
     {
-      "type": "custom-content",
-      "markdown": "esse é um produto que ..."
+      "type": "product-description",
+      "enabled": true
     }
   ]
 }
