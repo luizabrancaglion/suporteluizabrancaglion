@@ -6,12 +6,20 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {}
+    ],
     "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
     "featured": [
+      "/mais-vendidos?Mais vendidos",
+      "/teste?Promoção Verão 2020",
+      "/body?BODY",
+      "/short?SHORT",
+      "/cropeed?CROPPED",
+      "/saia-longa?Saia longa"
     ],
     "random": 0,
     "full_width": true
