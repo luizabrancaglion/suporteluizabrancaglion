@@ -19,7 +19,10 @@
       "/body?BODY",
       "/short?SHORT",
       "/cropeed?CROPPED",
-      "/saia-longa?Saia longa"
+      "/saia-longa?Saia longa",
+      "/promocoes?promoções",
+      "/mais-vendidos?Mais vendidos",
+      "/teste2?Coleção primavera/verão"
     ],
     "random": 0,
     "full_width": true
