@@ -19,10 +19,6 @@
       "enabled": true
     },
     {
-      "type": "custom-content",
-      "markdown": "#### **_**"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
