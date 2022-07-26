@@ -13,10 +13,6 @@
       }
     },
     {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
@@ -27,12 +23,6 @@
     {
       "type": "product-specifications",
       "enabled": true
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-05-19T17:08:52.633Z",
-      "end": "2022-05-20T17:08:52.661Z"
     },
     {
       "type": "product-description",
